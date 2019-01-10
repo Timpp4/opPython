@@ -1,2 +1,2 @@
-Ohjelma lukee annetusta .csv-tiedostosta tärkeitä lukuja ja toimii niitten kanssa.
+Ohjelma lukee annetusta .csv-tiedostosta tÃ¤rkeitÃ¤ lukuja ja toimii niiden kanssa.
 Perustuu trafin ajoneuvorekisteriin.
